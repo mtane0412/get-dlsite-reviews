@@ -52,7 +52,3 @@ streamlit run app.py
 ## ライセンス
 
 MIT
-
-## 作者
-
-あなたの名前をここに入れるのだ
